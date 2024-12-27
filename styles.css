@@ -11,7 +11,18 @@ body {
     background-color: #f95959;
 }
 
-ul {
-    display: contents;
-    margin: 0, auto;
+.list {
+    display: inline;
+    padding: 10px;
+}
+
+.items {
+    display: inline-block;
+    margin: 50px;
+}
+
+.images {
+    display: block;
+    height: 200px;
+    width: auto;
 }
